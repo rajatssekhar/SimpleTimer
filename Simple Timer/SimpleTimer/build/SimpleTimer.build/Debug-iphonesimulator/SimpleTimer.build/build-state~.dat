@@ -1,0 +1,251 @@
+TSimpleTimer
+v7
+r0
+t317749910.533098
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/Debug-iphonesimulator/SimpleTimer.app/Info.plist" SimpleTimer-Info.plist
+cCompileXIB "/Users/sathish/Documents/iPhone Apps/SimpleTimer/MainWindow.xib"
+cCompileXIB "/Users/sathish/Documents/iPhone Apps/SimpleTimer/SimpleTimerViewController.xib"
+cProcessPCH /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTimer_Prefix-ermewgsjdbljqdcdhvqxknvpbsuk/SimpleTimer_Prefix.pch.gch SimpleTimer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/Objects-normal/i386/main.o "/Users/sathish/Documents/iPhone Apps/SimpleTimer/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/Objects-normal/i386/SimpleTimerAppDelegate.o "/Users/sathish/Documents/iPhone Apps/SimpleTimer/Classes/SimpleTimerAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/Objects-normal/i386/SimpleTimerViewController.o "/Users/sathish/Documents/iPhone Apps/SimpleTimer/Classes/SimpleTimerViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sathish/Documents/iPhone Apps/SimpleTimer/Classes/SimpleTimerAppDelegate.h
+c000000004D40407400000000000001FA
+t1296056436
+s506
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Apps/SimpleTimer/Classes/SimpleTimerAppDelegate.m
+c000000004D4040740000000000000AAC
+t1296056436
+s2732
+i"SimpleTimerAppDelegate.h"
+i"SimpleTimerViewController.h"
+
+N/Users/sathish/Documents/iPhone Apps/SimpleTimer/Classes/SimpleTimerViewController.h
+c000000004D40412F0000000000000175
+t1296056623
+s373
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Apps/SimpleTimer/Classes/SimpleTimerViewController.m
+c000000004D4042C100000000000006EB
+t1296057025
+s1771
+i"SimpleTimerViewController.h"
+
+N/Users/sathish/Documents/iPhone Apps/SimpleTimer/MainWindow.xib
+c000000004D4040740000000000004E59
+t1296056436
+s20057
+
+N/Users/sathish/Documents/iPhone Apps/SimpleTimer/SimpleTimerViewController.xib
+c000000004D4040740000000000001A55
+t1296056436
+s6741
+
+N/Users/sathish/Documents/iPhone Apps/SimpleTimer/SimpleTimer_Prefix.pch
+c000000004D40407400000000000000BF
+t1296056436
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/Debug-iphonesimulator/SimpleTimer.app
+t2
+s0
+
+N/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/Debug-iphonesimulator/SimpleTimer.app.dSYM
+t2
+s0
+
+N/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/Debug-iphonesimulator/SimpleTimer.app/Info.plist
+t1296057109
+s607
+
+N/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/Debug-iphonesimulator/SimpleTimer.app/MainWindow.nib
+t1296057109
+s1131
+
+N/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/Debug-iphonesimulator/SimpleTimer.app/PkgInfo
+t1296057109
+s8
+
+N/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/Debug-iphonesimulator/SimpleTimer.app/SimpleTimer
+t2
+s0
+
+N/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/Debug-iphonesimulator/SimpleTimer.app/SimpleTimerViewController.nib
+t1296057109
+s795
+
+N/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/Objects-normal/i386/SimpleTimer.LinkFileList
+c000000004D40431500000000000001CB
+t1296057109
+s459
+
+N/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/Objects-normal/i386/SimpleTimerAppDelegate.o
+t1296057110
+s51196
+
+N/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/Objects-normal/i386/SimpleTimerViewController.o
+t2
+s0
+
+N/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/Objects-normal/i386/main.o
+t1296057110
+s6324
+
+N/Users/sathish/Documents/iPhone Apps/SimpleTimer/main.m
+c000000004D4040740000000000000170
+t1296056436
+s368
+i<UIKit/UIKit.h>
+
+N/var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTimer_Prefix-ermewgsjdbljqdcdhvqxknvpbsuk/SimpleTimer_Prefix.pch.gch
+t1296057110
+s15453392
+
+NSimpleTimer-Info.plist
+c000000004D404074000000000000038D
+t1296056436
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies317749909#317749909#0(0"0(0#1#0"8622243392#0"0#
+
+CCompileC build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/Objects-normal/i386/SimpleTimerAppDelegate.o "/Users/sathish/Documents/iPhone Apps/SimpleTimer/Classes/SimpleTimerAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s317749910.411359
+e317749910.504232
+r1
+xCompileC
+xbuild/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/Objects-normal/i386/SimpleTimerAppDelegate.o
+x/Users/sathish/Documents/iPhone Apps/SimpleTimer/Classes/SimpleTimerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/sathish/Documents/iPhone Apps/SimpleTimer/Classes/SimpleTimerAppDelegate.m317749910#317749910#0(0"0(0#0#81"/Users/sathish/Documents/iPhone Apps/SimpleTimer/Classes/SimpleTimerAppDelegate.m8617446400#2170"    cd "/Users/sathish/Documents/iPhone Apps/SimpleTimer"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/SimpleTimer-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/SimpleTimer-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/SimpleTimer-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/SimpleTimer-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTimer_Prefix-ermewgsjdbljqdcdhvqxknvpbsuk/SimpleTimer_Prefix.pch -c "/Users/sathish/Documents/iPhone Apps/SimpleTimer/Classes/SimpleTimerAppDelegate.m" -o "/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/Objects-normal/i386/SimpleTimerAppDelegate.o"0#
+
+CCompileC build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/Objects-normal/i386/SimpleTimerViewController.o "/Users/sathish/Documents/iPhone Apps/SimpleTimer/Classes/SimpleTimerViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s317749910.475744
+e317749910.533022
+r0
+xCompileC
+xbuild/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/Objects-normal/i386/SimpleTimerViewController.o
+x/Users/sathish/Documents/iPhone Apps/SimpleTimer/Classes/SimpleTimerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/sathish/Documents/iPhone Apps/SimpleTimer/Classes/SimpleTimerViewController.m:55: error: expected '{' before '*' token
+o{standard input}:72:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"
+o{standard input}:72:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:66:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:66:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:63:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:63:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:60:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L00000000001$pb"
+o{standard input}:60:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression
+o{standard input}:55:non-relocatable subtraction expression, "L_OBJC_IVAR_$_SimpleTimerViewController.myTimer$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:55:symbol: "L_OBJC_IVAR_$_SimpleTimerViewController.myTimer$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_SimpleTimerViewController.myTimer$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol LC0
+lSLF07#2@92"Compile /Users/sathish/Documents/iPhone Apps/SimpleTimer/Classes/SimpleTimerViewController.m317749910#317749910#0(1646"/Users/sathish/Documents/iPhone Apps/SimpleTimer/Classes/SimpleTimerViewController.m:55: error: expected '{' before '*' token{standard input}:72:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"{standard input}:72:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:66:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:66:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:63:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:63:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:60:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L00000000001$pb"{standard input}:60:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression{standard input}:55:non-relocatable subtraction expression, "L_OBJC_IVAR_$_SimpleTimerViewController.myTimer$non_lazy_ptr" minus "L00000000001$pb"{standard input}:55:symbol: "L_OBJC_IVAR_$_SimpleTimerViewController.myTimer$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_SimpleTimerViewController.myTimer$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol LC01(4@29"Expected '{' before '*' token317749910#0#126#0(6@84"/Users/sathish/Documents/iPhone Apps/SimpleTimer/Classes/SimpleTimerViewController.m317749825#55#0#55#0#19"expected * before *0(0#0#84"/Users/sathish/Documents/iPhone Apps/SimpleTimer/Classes/SimpleTimerViewController.m8614892224#2176"    cd "/Users/sathish/Documents/iPhone Apps/SimpleTimer"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/SimpleTimer-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/SimpleTimer-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/SimpleTimer-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/SimpleTimer-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTimer_Prefix-ermewgsjdbljqdcdhvqxknvpbsuk/SimpleTimer_Prefix.pch -c "/Users/sathish/Documents/iPhone Apps/SimpleTimer/Classes/SimpleTimerViewController.m" -o "/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/Objects-normal/i386/SimpleTimerViewController.o"1#
+
+CCompileC build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/Objects-normal/i386/main.o "/Users/sathish/Documents/iPhone Apps/SimpleTimer/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s317749910.410244
+e317749910.475628
+r1
+xCompileC
+xbuild/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/Objects-normal/i386/main.o
+x/Users/sathish/Documents/iPhone Apps/SimpleTimer/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/sathish/Documents/iPhone Apps/SimpleTimer/main.m317749910#317749910#0(0"0(0#0#55"/Users/sathish/Documents/iPhone Apps/SimpleTimer/main.m8619164800#2126"    cd "/Users/sathish/Documents/iPhone Apps/SimpleTimer"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/SimpleTimer-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/SimpleTimer-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/SimpleTimer-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/SimpleTimer-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTimer_Prefix-ermewgsjdbljqdcdhvqxknvpbsuk/SimpleTimer_Prefix.pch -c "/Users/sathish/Documents/iPhone Apps/SimpleTimer/main.m" -o "/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/sathish/Documents/iPhone Apps/SimpleTimer/MainWindow.xib"
+s317749909.123676
+e317749909.555371
+r1
+xCompileXIB
+x/Users/sathish/Documents/iPhone Apps/SimpleTimer/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib317749909#317749909#0(0"0(0#0#63"/Users/sathish/Documents/iPhone Apps/SimpleTimer/MainWindow.xib8625178016#610"    cd "/Users/sathish/Documents/iPhone Apps/SimpleTimer"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/Debug-iphonesimulator/SimpleTimer.app/MainWindow.nib" "/Users/sathish/Documents/iPhone Apps/SimpleTimer/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/sathish/Documents/iPhone Apps/SimpleTimer/SimpleTimerViewController.xib"
+s317749909.124408
+e317749909.552142
+r1
+xCompileXIB
+x/Users/sathish/Documents/iPhone Apps/SimpleTimer/SimpleTimerViewController.xib
+lSLF07#2@40"CompileXIB SimpleTimerViewController.xib317749909#317749909#0(0"0(0#0#78"/Users/sathish/Documents/iPhone Apps/SimpleTimer/SimpleTimerViewController.xib8624736832#640"    cd "/Users/sathish/Documents/iPhone Apps/SimpleTimer"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/Debug-iphonesimulator/SimpleTimer.app/SimpleTimerViewController.nib" "/Users/sathish/Documents/iPhone Apps/SimpleTimer/SimpleTimerViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/Debug-iphonesimulator/SimpleTimer.app.dSYM" "/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/Debug-iphonesimulator/SimpleTimer.app/SimpleTimer"
+r0
+
+CLd "/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/Debug-iphonesimulator/SimpleTimer.app/SimpleTimer" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/Debug-iphonesimulator/SimpleTimer.app/Info.plist" SimpleTimer-Info.plist
+s317749909.115744
+e317749909.123583
+r1
+xProcessInfoPlistFile
+x/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/Debug-iphonesimulator/SimpleTimer.app/Info.plist
+xSimpleTimer-Info.plist
+lSLF07#2@30"Process SimpleTimer-Info.plist317749909#317749909#0(0"0(0#0#71"/Users/sathish/Documents/iPhone Apps/SimpleTimer/SimpleTimer-Info.plist8601367168#527"    cd "/Users/sathish/Documents/iPhone Apps/SimpleTimer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SimpleTimer-Info.plist -genpkginfo "/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/Debug-iphonesimulator/SimpleTimer.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/Debug-iphonesimulator/SimpleTimer.app/Info.plist"0#
+
+CProcessPCH /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTimer_Prefix-ermewgsjdbljqdcdhvqxknvpbsuk/SimpleTimer_Prefix.pch.gch SimpleTimer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s317749909.555488
+e317749910.410128
+r1
+xProcessPCH
+x/var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTimer_Prefix-ermewgsjdbljqdcdhvqxknvpbsuk/SimpleTimer_Prefix.pch.gch
+xSimpleTimer_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile SimpleTimer_Prefix.pch317749909#317749910#0(0"0(0#0#71"/Users/sathish/Documents/iPhone Apps/SimpleTimer/SimpleTimer_Prefix.pch8622257440#2002"    cd "/Users/sathish/Documents/iPhone Apps/SimpleTimer"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/SimpleTimer-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/SimpleTimer-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/SimpleTimer-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/SimpleTimer-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/SimpleTimer.build/Debug-iphonesimulator/SimpleTimer.build/DerivedSources" -c "/Users/sathish/Documents/iPhone Apps/SimpleTimer/SimpleTimer_Prefix.pch" -o /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTimer_Prefix-ermewgsjdbljqdcdhvqxknvpbsuk/SimpleTimer_Prefix.pch.gch0#
+
+CTouch "/Users/sathish/Documents/iPhone Apps/SimpleTimer/build/Debug-iphonesimulator/SimpleTimer.app"
+r0
+

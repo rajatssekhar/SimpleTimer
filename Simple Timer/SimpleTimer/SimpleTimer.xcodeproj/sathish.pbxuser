@@ -1,0 +1,156 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* SimpleTimerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1027}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{728, 1013}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SimpleTimer */ = {
+		activeExec = 0;
+		executables = (
+			B8C94CC612F077F4008ECB00 /* SimpleTimer */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* SimpleTimerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {418, 429}}";
+			sepNavSelRange = "{397, 47}";
+			sepNavVisRange = "{327, 374}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* SimpleTimerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {894, 1547}}";
+			sepNavSelRange = "{2543, 38}";
+			sepNavVisRange = "{2313, 320}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = B8C94CC612F077F4008ECB00 /* SimpleTimer */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SimpleTimer */;
+		codeSenseManager = B8C94CCB12F07813008ECB00 /* Code sense */;
+		executables = (
+			B8C94CC612F077F4008ECB00 /* SimpleTimer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					249,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 322745408;
+			PBXWorkspaceStateSaveDate = 322745408;
+		};
+		perUserProjectItems = {
+			B80C6EA3133CB55700FD9330 /* PBXTextBookmark */ = B80C6EA3133CB55700FD9330 /* PBXTextBookmark */;
+			B80C6EA4133CB55700FD9330 /* PBXTextBookmark */ = B80C6EA4133CB55700FD9330 /* PBXTextBookmark */;
+			B80C6EA5133CB55700FD9330 /* PBXTextBookmark */ = B80C6EA5133CB55700FD9330 /* PBXTextBookmark */;
+			B8C94CF412F0800D008ECB00 /* PBXTextBookmark */ = B8C94CF412F0800D008ECB00 /* PBXTextBookmark */;
+		};
+		sourceControlManager = B8C94CCA12F07813008ECB00 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	B80C6EA3133CB55700FD9330 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SimpleTimerViewController.h */;
+		name = "SimpleTimerViewController.h: 22";
+		rLen = 47;
+		rLoc = 397;
+		rType = 0;
+		vrLen = 374;
+		vrLoc = 327;
+	};
+	B80C6EA4133CB55700FD9330 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SimpleTimerViewController.m */;
+		name = "SimpleTimerViewController.m: 54";
+		rLen = 122;
+		rLoc = 1278;
+		rType = 0;
+		vrLen = 708;
+		vrLoc = 1131;
+	};
+	B80C6EA5133CB55700FD9330 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SimpleTimerViewController.m */;
+		name = "SimpleTimerViewController.m: 96";
+		rLen = 38;
+		rLoc = 2543;
+		rType = 0;
+		vrLen = 320;
+		vrLoc = 2313;
+	};
+	B8C94CC612F077F4008ECB00 /* SimpleTimer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SimpleTimer;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	B8C94CCA12F07813008ECB00 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B8C94CCB12F07813008ECB00 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B8C94CF412F0800D008ECB00 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SimpleTimerAppDelegate.m */;
+		name = "SimpleTimerAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1013;
+		vrLoc = 728;
+	};
+}
